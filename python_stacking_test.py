@@ -15,3 +15,4 @@ def get_height(blocks):
         
     return height
 print("Height: ", get_height(user_input))
+print("Bobo putio")
